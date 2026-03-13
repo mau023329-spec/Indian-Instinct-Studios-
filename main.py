@@ -12,7 +12,7 @@ import datetime
 # ─────────────────────────────────────────────
 # ADMIN PASSWORD
 # ─────────────────────────────────────────────
-ADMIN_PASSWORD = "iis2024"
+ADMIN_PASSWORD = "m@u_pr0"
 
 # ─────────────────────────────────────────────
 # SESSION STATE BOOTSTRAP
