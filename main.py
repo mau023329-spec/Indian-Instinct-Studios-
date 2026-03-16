@@ -846,7 +846,7 @@ with tab_about:
             </p>
             <p style="color:{T['text2']};line-height:1.8;font-size:0.95rem;margin-top:12px;">
                 Currently a 4-person team based in India, we launched our first product —
-                KitchenMate — in late 2024.
+                KitchenMate — in 2026.
             </p>
         </div>
         <div class="card">
@@ -869,7 +869,7 @@ with tab_about:
             <div style="font-family:Sora,sans-serif;font-size:1.4rem;font-weight:800;color:{T['heading']};">Indian Instincts</div>
             <div style="font-size:0.8rem;color:{T['text3']};letter-spacing:0.12em;text-transform:uppercase;margin-top:4px;">Studios</div>
         </div>""", unsafe_allow_html=True)
-        for num,lbl in [("4","Team Members"),("1","Products Live"),("2024","Founded")]:
+        for num,lbl in [("4","Team Members"),("1","Products Live"),("2026","Founded")]:
             st.markdown(f'<div class="stat-box" style="margin-bottom:16px;"><div class="stat-num">{num}</div><div class="stat-lbl">{lbl}</div></div>',unsafe_allow_html=True)
 
     st.markdown("<hr class='div-line'>", unsafe_allow_html=True)
